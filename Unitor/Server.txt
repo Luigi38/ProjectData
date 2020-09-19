@@ -1,1 +1,1 @@
-{"server":"github","info":"","url":"https://raw.githubusercontent.com/Luigi38/ProjectData/master/Unitor/Server.txt"}
+{"server":"github","info":"","url":"https://raw.githubusercontent.com/Luigi38/ProjectData/master/Unitor/VersionInfo.txt"}
