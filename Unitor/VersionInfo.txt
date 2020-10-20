@@ -4,6 +4,7 @@
 			"channel": "S",
 			"version": "4.0.0.0",
 			"version_code": "v4",
+			"vcode": "Stable-HelloUsers!",
 			"info": {
 				"en": {
 					"title": "Unitor v4 Released!",
