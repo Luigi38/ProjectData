@@ -1,14 +1,14 @@
 {
 	"versions": [
 		{
-			"channel": "S",
-			"version": "4.0.0.0",
-			"version_code": "v4",
-			"vcode": "Stable-HelloUsers!",
+			"channel": "B",
+			"version": "3.1.2.2",
+			"version_code": "v3.1.2.2 (Pre-Release)",
+			"vcode": "Beta-DM1",
 			"info": {
 				"en": {
-					"title": "Unitor v4 Released!",
-					"description": "It is revolution."
+					"title": "Unitor v3.1.2.2 (Pre-Release) Released!",
+					"description": "Only supporting dual launchpad"
 				}
 			}
 		}
