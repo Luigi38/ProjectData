@@ -1,6 +1,0 @@
-{
-	"Id": {
-		"3.1.2.2": "1ppsaoODjdd5lkActahgt-biXh_Zngson",
-		"3.1.2.1": "1ppsaoODjdd5lkActahgt-biXh_Zngson"
-	}
-}
