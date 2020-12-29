@@ -10,7 +10,7 @@
 					"title": "Unitor v3.1.2.2 (Pre-Release) Released!",
 					"description": "Only supporting dual launchpad"
 				}
-			}
+			},
 			"id": "1ppsaoODjdd5lkActahgt-biXh_Zngson"
 		}
 	]
