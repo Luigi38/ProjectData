@@ -1,17 +1,17 @@
 {
 	"versions": [
 		{
-			"channel": "B",
+			"channel": "S",
 			"version": "3.1.2.2",
-			"version_code": "v3.1.2.2 (Pre-Release)",
-			"vcode": "Beta-DM1",
+			"version_code": "v3.1.2.2 (Stable-HelloUsers!)",
+			"vcode": "Stable-HelloUsers!",
 			"info": {
 				"en": {
 					"title": "Unitor v3.1.2.2 (Pre-Release) Released!",
 					"description": "Only supporting dual launchpad"
 				}
 			},
-			"id": "1ppsaoODjdd5lkActahgt-biXh_Zngson"
+			"id": "1BGM2oOw0cnahjc4XRfTJL2FdVlZdqILT"
 		}
 	]
 }
