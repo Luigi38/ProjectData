@@ -8,7 +8,7 @@
 			"info": {
 				"en": {
 					"title": "Unitor v3.1.2.2 (Pre-Release) Released!",
-					"description": "It's pretty stable"
+					"description": "It is pretty stable"
 				}
 			},
 			"id": "1BGM2oOw0cnahjc4XRfTJL2FdVlZdqILT"
