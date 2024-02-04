@@ -2,16 +2,16 @@
 	"versions": [
 		{
 			"channel": "S",
-			"version": "3.1.2.2",
-			"version_code": "v3.1.2.2 (Stable-HelloUsers!)",
+			"version": "3.1.2.3",
+			"version_code": "v3.1.2.3",
 			"vcode": "Stable-HelloUsers!",
 			"info": {
 				"en": {
-					"title": "Unitor v3.1.2.2 (Pre-Release) Released!",
-					"description": "It is pretty stable"
+					"title": "Unitor v3.1.2.3 Released!",
+					"description": "Final Release."
 				}
 			},
-			"id": "1BGM2oOw0cnahjc4XRfTJL2FdVlZdqILT"
+			"id": "15Q_bD7qdzJKVBbu8DpQn9qiYs8MvuzHP"
 		}
 	]
 }
